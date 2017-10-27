@@ -1,0 +1,9 @@
+T:\Programowanie\Repotest\test-repo\Orzeł7\bin\Debug\Orzeł7.exe.config
+T:\Programowanie\Repotest\test-repo\Orzeł7\bin\Debug\Orzeł7.exe
+T:\Programowanie\Repotest\test-repo\Orzeł7\bin\Debug\Orzeł7.pdb
+T:\Programowanie\Repotest\test-repo\Orzeł7\obj\Debug\Orzeł7.Form1.resources
+T:\Programowanie\Repotest\test-repo\Orzeł7\obj\Debug\Orzeł7.Properties.Resources.resources
+T:\Programowanie\Repotest\test-repo\Orzeł7\obj\Debug\Orzeł7.csproj.GenerateResource.Cache
+T:\Programowanie\Repotest\test-repo\Orzeł7\obj\Debug\Orzeł7.csproj.CoreCompileInputs.cache
+T:\Programowanie\Repotest\test-repo\Orzeł7\obj\Debug\Orzeł7.exe
+T:\Programowanie\Repotest\test-repo\Orzeł7\obj\Debug\Orzeł7.pdb
