@@ -19,7 +19,7 @@ namespace Orzeł7
 
         private void button1_Click(object sender, EventArgs e)
         {
-            lText.Text = "Szymon to chujek ta da";
+            lText.Text = "Szymon i Wiktor to chujki ta da";
         }
     }
 }
